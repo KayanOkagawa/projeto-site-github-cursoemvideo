@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: "#ef692f";
+    background-color: "#ef3a0c";
 }
 
 main {
@@ -13,4 +13,8 @@ main {
     margin: auto;
     padding: 10;
     box-shadow: 3px 3px 5px black;
+}
+
+img.lado {
+    float: right;
 }
